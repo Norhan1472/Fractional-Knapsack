@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611515029 source:d:\codeblock-workspace\fractional knapsack\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
